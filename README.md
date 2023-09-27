@@ -58,7 +58,7 @@
     
 ## Documentação:
 
--a seuir informações cruciais relacionadas ao nosso projeto, incluindo gráfico de burndown, backlog e histórias de usuário.
+-informações cruciais relacionadas ao nosso projeto, incluindo gráfico de burndown, backlog e histórias de usuário.
 
 <a href="https://fatecspgov-my.sharepoint.com/:x:/g/personal/flavio_linguanotto_fatec_sp_gov_br/EWSn3yPb7uRNliVHp_RgfO8BDrmqIkRlNMaj2DXPv0IZFQ?e=RSErpS"><strong>Documentação</strong></a> 
 
