@@ -50,6 +50,8 @@
 ```
 https://youtu.be/iIAjjitAGOg
 ```
+<a href="https://youtu.be/iIAjjitAGOg
+"><strong>Assista o video da sprint review clicando aqui </strong></a> 
    
 
 → [Voltar ao topo](#topo)    
